@@ -31,4 +31,5 @@ int searchArray(int array[],int size, int element) {
         }
     }
     return -1;
+
 }
